@@ -1,0 +1,10 @@
+3 2
+ccc
+ab-
+-ab
+5
+abc
+abb
+aab
+cbb
+ccc

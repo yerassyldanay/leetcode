@@ -1,0 +1,9 @@
+2 1
+ccc
+-bb
+5
+ab
+ac
+cbb
+ba
+ccc

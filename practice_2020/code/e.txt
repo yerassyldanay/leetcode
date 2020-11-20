@@ -1,0 +1,18 @@
+4 5
+cccc
+aaa-
+kkk-
+dd--
+e---
+-bbb
+10
+cccc
+aaac
+kkkc
+ddkc
+ddac
+edkc
+edac
+cbbb
+aaab
+kkkb
