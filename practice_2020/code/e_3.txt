@@ -1,0 +1,13 @@
+4 3
+cccc
+abd-
+-abd
+--kd
+7
+cccc
+cabd
+cckd
+cakd
+abdd
+cabk
+cddd
