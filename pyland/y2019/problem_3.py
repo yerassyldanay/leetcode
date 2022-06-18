@@ -34,7 +34,7 @@ class Solution:
             print("0")
 
 if __name__ == "__main__":
-    file = open("./input_3.txt", "r")
+    file = open("input_3.txt", "r")
 
     s = Solution()
 

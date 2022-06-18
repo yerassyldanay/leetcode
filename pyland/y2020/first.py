@@ -65,7 +65,7 @@ class Solution(object):
 
 
 if __name__ == "__main__":
-    input_reader = open("/home/yerassyl/pycharm_projects/leetcode/practice_2020/code/first.txt", "r")
+    input_reader = open("/home/yerassyl/pycharm_projects/leetcode/practice_2020/y2020/first.txt", "r")
     # input_reader = sys.stdin
 
     # for _ in range(int(input_reader.readline().strip())):

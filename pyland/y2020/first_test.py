@@ -1,8 +1,7 @@
 import math, time
-from random import seed
-from random import randint, random
+from random import randint
 
-from practice_2020.code import first
+from pyland.y2020 import first
 
 if __name__ == "__main__":
     ranges = []

@@ -62,7 +62,7 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    file = open("./input_5.txt")
+    file = open("input_5.txt")
 
     num_of_tests = int(file.readline().strip())
 

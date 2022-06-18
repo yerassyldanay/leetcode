@@ -131,7 +131,7 @@ if __name__ == '__main__':
 
     s = Solution()
 
-    file = open("./input.txt", "r")
+    file = open("input.txt", "r")
 
     # cooking these foods
     num_foods = file.readline()

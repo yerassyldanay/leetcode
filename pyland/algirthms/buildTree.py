@@ -1,5 +1,5 @@
 
-from pycode.algirthms.depth_first_search import BinaryTree
+from pyland.algirthms.depth_first_search import BinaryTree
 
 class TreeNode:
     def __init__(self, val):
